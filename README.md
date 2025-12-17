@@ -1,15 +1,12 @@
 <div align="center">
 
-# 🌟 Welcome to Veliqq's Profile 🌟
+# ✨ Veliqq ✨
 
 <p><em>13-yr old developer specializing in NodeJS and Assembly</em></p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<hr>
 
 </div>
-
-<hr>
 
 ## 🔭 I'm currently working on
 
@@ -27,31 +24,26 @@
 
 <div align="center">
 
-### 🎨 Frontend
+**🎨 Frontend**
 
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
+`React` • `Next.js` • `Tailwind` • `HTML5` • `CSS3`
 
-### ⚙️ Backend
+**⚙️ Backend**
 
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1">
+`Node.js` • `Express` • `SQLite`
 
-### 🧠 AI/ML
+**🧠 AI/ML**
 
-<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
+`TensorFlow` • `PyTorch` • `OpenCV` • `Hugging Face`
 
-### 💬 Languages
+**💬 Languages**
 
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
+`JavaScript` • `TypeScript` • `Python` • `C`
 
 </div>
 
 <div align="center">
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
 
 </div>
