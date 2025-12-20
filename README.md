@@ -6,7 +6,7 @@ const profile = {
   bio: "13-yr old developer specializing in NodeJS and Assembly",
   currentWork: "Working on small operating systems in Assembly and making websites professionally",
   learning: "Learning Assembly further and C, to hopefully create my own operating system one day.",
-  interests: "AI,coding and tech",
+  interests: "AI, coding and tech",
   skills: [
     "React",
     "Next.js",
@@ -23,7 +23,8 @@ const profile = {
     "JavaScript",
     "TypeScript",
     "Python",
-    "C"
+    "C",
+    "Assembly"
   ],
 }
 ```
@@ -66,7 +67,8 @@ AI, coding and tech
     "JavaScript",
     "TypeScript",
     "Python",
-    "C"
+    "C",
+    "Assembly"
   ]
 }
 ```
