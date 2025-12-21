@@ -20,6 +20,7 @@ css, html, js, discord, discordjs, c, c#, ai, py, pytorch, go, java
 🔭 **Public Repositories:** 4  
 👥 **Followers:** 0  
 👤 **Following:** 0  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veliqq&show_icons=true&theme=radical)
 
 ## Latest Blog Posts
