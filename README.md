@@ -1,81 +1,31 @@
-# Veliqq
+## Hi there! 👋
 
-```typescript
-const profile = {
-  name: "Veliqq",
-  bio: "13-yr old developer specializing in NodeJS and Assembly",
-  currentWork: "Working on small operating systems in Assembly and making websites professionally",
-  learning: "Learning Assembly further and C, to hopefully create my own operating system one day.",
-  interests: "AI, coding and tech",
-  skills: [
-    "React",
-    "Next.js",
-    "Tailwind",
-    "HTML5",
-    "CSS3",
-    "Node.js",
-    "Express",
-    "SQLite",
-    "TensorFlow",
-    "PyTorch",
-    "OpenCV",
-    "Hugging Face",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "C",
-    "Assembly"
-  ],
-}
-```
+I'm **veliqq**, a passionate 13 year old developer from **Germany**. I love building tools that make life easier and exploring new technologies. Let's connect!
 
-## 🔭 I'm currently working on
+## About Me
 
-Working on small operating systems in Assembly and making websites professionally
+I am a software developer with a knack for creating efficient and elegant solutions. My journey in tech has been exciting, and I'm always looking to learn more. Currently based in Germany, I thrive on challenges and enjoy collaborating with others.
 
-## 🌱 I'm currently learning
+## Skills & Technologies
 
-Learning Assembly further and C, to hopefully create my own operating system one day.
+css, html, js, discord, discordjs, c, c#, ai, py, pytorch, go, java
 
-## 👀 I'm interested in
+## Top Projects
 
-AI, coding and tech
+- [**retrymax**](https://github.com/veliqq/retrymax) - A tiny retry decorator for Python, works for sync and async functions, with optional verbose output and callback hooks. ⭐️ 0 stars | 🛠️ Python
+- [**WhyIsMyPCSlow**](https://github.com/veliqq/WhyIsMyPCSlow) - A comprehensive GUI-based diagnostic tool that analyzes your Windows PC's performance and provides actionable insights to improve system speed. ⭐️ 0 stars | 🛠️ GUI Tool
 
-## 💻 Tech Stack
+## GitHub Stats
 
-```json
-{
-  "frontend": [
-    "React",
-    "Next.js",
-    "Tailwind",
-    "HTML5",
-    "CSS3"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "SQLite"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "PyTorch",
-    "OpenCV",
-    "Hugging Face"
-  ],
-  "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "C",
-    "Assembly"
-  ]
-}
-```
+🔭 **Public Repositories:** 4  
+👥 **Followers:** 0  
+👤 **Following:** 0  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veliqq&show_icons=true&theme=radical)
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+## Latest Blog Posts
 
-process.exit(0); // Until next time 👋
-```
+Coming soon.
+
+## Certifications
+
+- [All my certifications](https://www.hackerrank.com/profile/veliqq) - HackerRank, 2025
