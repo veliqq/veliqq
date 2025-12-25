@@ -8,7 +8,7 @@ I am a software developer with a knack for creating efficient and elegant soluti
 
 ## Skills & Technologies
 
-css, html, js, discord, discordjs, c, c#, ai, py, pytorch, go, java
+CSS, HTML, JS, Discord, DiscordJS, C, AI, Python, Pytorch, Go, Java
 
 ## Top Projects
 
